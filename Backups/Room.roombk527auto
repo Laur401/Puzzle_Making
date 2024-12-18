@@ -20,14 +20,14 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": 0.007744748145341873,
-        "y": 1.5891413688659669,
-        "z": 0.12523062527179719
+        "x": -0.03318437188863754,
+        "y": 1.602433443069458,
+        "z": 0.0558769628405571
     },
     "cameraEditRotation": {
-        "x": 357.7635498046875,
-        "y": 359.2374267578125,
-        "z": 1.668797655618448e-9
+        "x": 8.263218879699707,
+        "y": 358.3379821777344,
+        "z": 1.3480160987455747e-8
     },
     "useNonLegacyLights": true,
     "useNonLegacyFloorColliders": true,
@@ -14618,14 +14618,14 @@
                 "value": 244
             },
             "parentID": {
-                "value": 31
+                "value": 0
             },
             "transform": {
                 "local": false,
                 "position": {
                     "x": 0.8100870251655579,
                     "y": 1.349557638168335,
-                    "z": 1.4819591045379639
+                    "z": 1.4819592237472535
                 },
                 "rotation": {
                     "x": 0.0,
@@ -14633,9 +14633,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.1473863124847412,
+                    "x": 0.14738623797893525,
                     "y": 0.14738599956035615,
-                    "z": 0.14738617837429048
+                    "z": 0.1473861038684845
                 }
             },
             "isObstacle": false,
@@ -14729,7 +14729,7 @@
                 "value": 245
             },
             "parentID": {
-                "value": 7
+                "value": 0
             },
             "transform": {
                 "local": false,
@@ -14745,8 +14745,8 @@
                 },
                 "scale": {
                     "x": 0.13215689361095429,
-                    "y": 0.1321571171283722,
-                    "z": 0.1321571171283722
+                    "y": 0.1321570873260498,
+                    "z": 0.1321570873260498
                 }
             },
             "isObstacle": false,
@@ -14786,117 +14786,6 @@
                     "scriptLocation": "TimeButtons"
                 }
             ],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Plane"
-            },
-            "ID": {
-                "value": 246
-            },
-            "parentID": {
-                "value": 31
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": -0.8102892637252808,
-                    "y": 1.349557638168335,
-                    "z": 1.481959342956543
-                },
-                "rotation": {
-                    "x": 0.0,
-                    "y": 180.0,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.1473863124847412,
-                    "y": 0.14738599956035615,
-                    "z": 0.14738617837429048
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Plane[set: back]",
-            "playerVariableNameSet": true,
-            "playerVariableName": "g_timeButton{2}",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [
-                {
-                    "isRemote": false,
-                    "isSticky": false,
-                    "duration": 0.0,
-                    "outputValueApplied": true,
-                    "outputValue": 1,
-                    "bounce": true,
-                    "loop": false,
-                    "autoplay": false,
-                    "delay": 0.0,
-                    "pauseOnLoop": 0.0,
-                    "pauseOnBounce": 0.0,
-                    "canPickupDuringAnimation": false,
-                    "appliedPickupInZoomFix": true,
-                    "playerVariableName": "",
-                    "interpolation": 0,
-                    "remoteTargets": [],
-                    "pivot": {
-                        "local": true,
-                        "position": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "rotation": {
-                            "x": 0.0,
-                            "y": 0.0,
-                            "z": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0,
-                            "z": 1.0
-                        }
-                    },
-                    "locks": [],
-                    "useRigidbody": false,
-                    "useRigidbodyApplied": true
-                }
-            ],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
             "finish": [],
             "display": [],
             "slidable": [],
