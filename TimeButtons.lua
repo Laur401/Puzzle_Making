@@ -1,15 +1,12 @@
 
 if callType == LuaCallType.Init then
     function getVars(elementName)
-        api.log("Hello2!")
         local name, var1 = elementName.match(elementName,"(.-)%[set:%s*([%l]+)%]") --<name>[set: <forward/back>]
         return {name, var1}
     end
     buttonSetting={}
-    api.log("Hello!")
     for i, button in pairs(g_timeButton) do
         local element = api.getElement(button)
-        api.log(element)
         local vars = getVars(element.elementName)
         element.elementName=vars[1]
         buttonSetting[i]=vars[2]
@@ -19,7 +16,6 @@ if callType == LuaCallType.Init then
         local index = string.match(element.playerVariableName, "{(%d+)}")
         return tonumber(index)
     end
-    
 end
 
 if callType == LuaCallType.SwitchDone then
