@@ -20,14 +20,14 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": -0.0810239389538765,
-        "y": 1.075622320175171,
-        "z": 0.865411639213562
+        "x": -0.11790083348751068,
+        "y": 1.0771989822387696,
+        "z": 0.983680248260498
     },
     "cameraEditRotation": {
-        "x": 4.500239849090576,
-        "y": 354.1489562988281,
-        "z": -2.676293320291734e-8
+        "x": 2.5501346588134767,
+        "y": 341.2493896484375,
+        "z": 2.6706876710136386e-8
     },
     "useNonLegacyLights": true,
     "useNonLegacyFloorColliders": true,
@@ -10809,9 +10809,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.0605202279984951,
-                    "y": 0.04041776806116104,
-                    "z": 0.040077146142721179
+                    "x": 0.06052021682262421,
+                    "y": 0.040417756885290149,
+                    "z": 0.04007713496685028
                 }
             },
             "isObstacle": false,
@@ -10834,7 +10834,7 @@
                     "duration": 0.0,
                     "outputValueApplied": true,
                     "outputValue": 2,
-                    "bounce": true,
+                    "bounce": false,
                     "loop": false,
                     "autoplay": false,
                     "delay": 0.0,
@@ -10927,9 +10927,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.06052026525139809,
-                    "y": 0.04041779786348343,
-                    "z": 0.04007718712091446
+                    "x": 0.06052025407552719,
+                    "y": 0.040417786687612537,
+                    "z": 0.040077175945043567
                 }
             },
             "isObstacle": false,
@@ -10952,7 +10952,7 @@
                     "duration": 0.0,
                     "outputValueApplied": true,
                     "outputValue": 3,
-                    "bounce": true,
+                    "bounce": false,
                     "loop": false,
                     "autoplay": false,
                     "delay": 0.0,
@@ -11035,7 +11035,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.10877436399459839,
+                    "x": -0.10877437889575958,
                     "y": 1.024320363998413,
                     "z": 1.1079529523849488
                 },
@@ -11045,9 +11045,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.06052033230662346,
-                    "y": 0.040417835116386417,
-                    "z": 0.04007722809910774
+                    "x": 0.060520321130752566,
+                    "y": 0.04041782766580582,
+                    "z": 0.04007721692323685
                 }
             },
             "isObstacle": false,
@@ -11070,7 +11070,7 @@
                     "duration": 0.0,
                     "outputValueApplied": true,
                     "outputValue": 6,
-                    "bounce": true,
+                    "bounce": false,
                     "loop": false,
                     "autoplay": false,
                     "delay": 0.0,
@@ -11163,9 +11163,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.06052026525139809,
-                    "y": 0.04041779786348343,
-                    "z": 0.04007718712091446
+                    "x": 0.06052025407552719,
+                    "y": 0.040417786687612537,
+                    "z": 0.040077175945043567
                 }
             },
             "isObstacle": false,
@@ -11188,7 +11188,7 @@
                     "duration": 0.0,
                     "outputValueApplied": true,
                     "outputValue": 5,
-                    "bounce": true,
+                    "bounce": false,
                     "loop": false,
                     "autoplay": false,
                     "delay": 0.0,
@@ -11281,9 +11281,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.0605202279984951,
-                    "y": 0.040417782962322238,
-                    "z": 0.04007716104388237
+                    "x": 0.06052021682262421,
+                    "y": 0.04041776806116104,
+                    "z": 0.040077149868011478
                 }
             },
             "isObstacle": false,
@@ -11306,7 +11306,7 @@
                     "duration": 0.0,
                     "outputValueApplied": true,
                     "outputValue": 4,
-                    "bounce": true,
+                    "bounce": false,
                     "loop": false,
                     "autoplay": false,
                     "delay": 0.0,
@@ -11389,7 +11389,7 @@
             "transform": {
                 "local": false,
                 "position": {
-                    "x": -0.10876952111721039,
+                    "x": -0.10876955091953278,
                     "y": 1.0000848770141602,
                     "z": 1.1079529523849488
                 },
@@ -11399,9 +11399,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.060520369559526446,
-                    "y": 0.040417857468128207,
-                    "z": 0.04007725045084953
+                    "x": 0.06052035838365555,
+                    "y": 0.04041785001754761,
+                    "z": 0.040077243000268939
                 }
             },
             "isObstacle": false,
@@ -11424,7 +11424,7 @@
                     "duration": 0.0,
                     "outputValueApplied": true,
                     "outputValue": 9,
-                    "bounce": true,
+                    "bounce": false,
                     "loop": false,
                     "autoplay": false,
                     "delay": 0.0,
@@ -11517,9 +11517,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.06052030622959137,
-                    "y": 0.04041781648993492,
-                    "z": 0.040077220648527148
+                    "x": 0.06052029877901077,
+                    "y": 0.040417809039354327,
+                    "z": 0.04007720947265625
                 }
             },
             "isObstacle": false,
@@ -11542,7 +11542,7 @@
                     "duration": 0.0,
                     "outputValueApplied": true,
                     "outputValue": 8,
-                    "bounce": true,
+                    "bounce": false,
                     "loop": false,
                     "autoplay": false,
                     "delay": 0.0,
@@ -11635,9 +11635,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.06052026525139809,
-                    "y": 0.04041779786348343,
-                    "z": 0.04007718712091446
+                    "x": 0.06052025407552719,
+                    "y": 0.040417786687612537,
+                    "z": 0.040077175945043567
                 }
             },
             "isObstacle": false,
@@ -11660,7 +11660,7 @@
                     "duration": 0.0,
                     "outputValueApplied": true,
                     "outputValue": 7,
-                    "bounce": true,
+                    "bounce": false,
                     "loop": false,
                     "autoplay": false,
                     "delay": 0.0,
@@ -11753,9 +11753,9 @@
                     "z": 0.0
                 },
                 "scale": {
-                    "x": 0.060520343482494357,
-                    "y": 0.040417835116386417,
-                    "z": 0.04007725045084953
+                    "x": 0.06052033603191376,
+                    "y": 0.04041782766580582,
+                    "z": 0.04007723927497864
                 }
             },
             "isObstacle": false,
@@ -11778,7 +11778,7 @@
                     "duration": 0.0,
                     "outputValueApplied": true,
                     "outputValue": 0,
-                    "bounce": true,
+                    "bounce": false,
                     "loop": false,
                     "autoplay": false,
                     "delay": 0.0,
