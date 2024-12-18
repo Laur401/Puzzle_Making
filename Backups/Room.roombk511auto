@@ -20,13 +20,13 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": -0.1558307558298111,
-        "y": 1.549200177192688,
-        "z": 0.4653060734272003
+        "x": 1.2181400060653687,
+        "y": 1.5392684936523438,
+        "z": 0.7578854560852051
     },
     "cameraEditRotation": {
-        "x": 5.413186073303223,
-        "y": 3.1381282806396486,
+        "x": 8.562993049621582,
+        "y": 338.5383605957031,
         "z": 0.0
     },
     "useNonLegacyLights": true,
@@ -14655,7 +14655,7 @@
                 {
                     "isRemote": false,
                     "isSticky": false,
-                    "duration": 0.0,
+                    "duration": 0.5,
                     "outputValueApplied": true,
                     "outputValue": 1,
                     "bounce": true,
@@ -14711,81 +14711,6 @@
             "customModel": [],
             "postProcessing": [],
             "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Base/Script"
-            },
-            "ID": {
-                "value": 245
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 0.8957323431968689,
-                    "y": 1.3561978340148926,
-                    "z": 1.4255638122558594
-                },
-                "rotation": {
-                    "x": 270.0,
-                    "y": 0.000010017911336035468,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.13215689361095429,
-                    "y": 0.1321570873260498,
-                    "z": 0.1321570873260498
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Script",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [
-                {
-                    "scriptLocation": "TimeButtons"
-                }
-            ],
             "finish": [],
             "display": [],
             "slidable": [],

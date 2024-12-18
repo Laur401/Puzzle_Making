@@ -20,13 +20,13 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": -0.1558307558298111,
-        "y": 1.549200177192688,
-        "z": 0.4653060734272003
+        "x": 0.3007439970970154,
+        "y": 1.9164772033691407,
+        "z": -0.4715379774570465
     },
     "cameraEditRotation": {
-        "x": 5.413186073303223,
-        "y": 3.1381282806396486,
+        "x": 19.96310806274414,
+        "y": 345.43829345703127,
         "z": 0.0
     },
     "useNonLegacyLights": true,
@@ -14655,7 +14655,7 @@
                 {
                     "isRemote": false,
                     "isSticky": false,
-                    "duration": 0.0,
+                    "duration": 0.5,
                     "outputValueApplied": true,
                     "outputValue": 1,
                     "bounce": true,

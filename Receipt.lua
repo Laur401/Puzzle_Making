@@ -4,7 +4,7 @@
 ---
 
 if callType == LuaCallType.Init then
-    for i, obj in pairs(receipt) do
+    for i, obj in pairs(g_receipt) do
         object=api.getElement(obj)
         object.zoomScaleModifier = .7
         object.pinScaleModifier = .3
