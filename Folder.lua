@@ -111,12 +111,12 @@ if callType == LuaCallType.Update then
     for i, folder in pairs(g_folder) do
         if animating[i] then
             animationTimer[i]=animationTimer[i]+Time.deltaTime
-            local progress = animationTimer[i]/animationDuration
             if (animationTimer[i]>animationDuration) then
                 animationTimer[i]=animationDuration
                 animating[i]=false
                 switchActive[i]=true
             end
+            local progress = animationTimer[i]/animationDuration
             cover[i].transform.localRotation=Quaternion.Slerp(lastCoverRot[i],newCoverRot[i],progress)
             --back[i].transform.localRotation=Quaternion.Slerp(lastBackRot[i],newBackRot[i],progress)
         end
