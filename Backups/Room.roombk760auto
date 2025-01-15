@@ -20,14 +20,14 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": 5.542056560516357,
-        "y": 1.4140878915786744,
-        "z": -0.4007354974746704
+        "x": 4.878644943237305,
+        "y": 1.6254825592041016,
+        "z": -0.4629383981227875
     },
     "cameraEditRotation": {
-        "x": 358.6543273925781,
-        "y": 89.40046691894531,
-        "z": 0.0
+        "x": 8.553661346435547,
+        "y": 87.59984588623047,
+        "z": 4.316885053867736e-7
     },
     "useNonLegacyLights": true,
     "useNonLegacyFloorColliders": true,
@@ -21260,83 +21260,12 @@
             "transparencyOrderOffset": 0,
             "showSparklesInVR": true,
             "vrSparklesMode": 0,
-            "rigidbody": [],
-            "_switch": [],
-            "turnable": [],
-            "dial": [],
-            "zoomable": [],
-            "dragTarget": [],
-            "_lock": [],
-            "slot": [],
-            "trigger": [],
-            "teleport": [],
-            "fog": [],
-            "sound": [],
-            "skybox": [],
-            "swapTextures": [],
-            "paintTextures": [
+            "rigidbody": [
                 {
-                    "fileName": "ktdjdhesiv.png",
-                    "rendererPath": "SM_Camera_02a/SM_Camera_02a_LOD0"
+                    "isKinematic": false,
+                    "mass": 1.0
                 }
             ],
-            "openLink": [],
-            "activatorComponent": [],
-            "editorLight": [],
-            "customModel": [],
-            "postProcessing": [],
-            "scriptComponent": [],
-            "finish": [],
-            "display": [],
-            "slidable": [],
-            "mirror": [],
-            "puzzle": [],
-            "puzzleNeo": [],
-            "editorWater": [],
-            "roulette": [],
-            "editorSetup": []
-        },
-        {
-            "propID": {
-                "value": "Effects/Volumetric"
-            },
-            "ID": {
-                "value": 324
-            },
-            "parentID": {
-                "value": 0
-            },
-            "transform": {
-                "local": false,
-                "position": {
-                    "x": 6.419155597686768,
-                    "y": 1.5559393167495728,
-                    "z": -0.46133559942245486
-                },
-                "rotation": {
-                    "x": 90.0,
-                    "y": 89.99999237060547,
-                    "z": 0.0
-                },
-                "scale": {
-                    "x": 0.19218593835830689,
-                    "y": 0.19218593835830689,
-                    "z": 0.19218593835830689
-                }
-            },
-            "isObstacle": false,
-            "exportName": "",
-            "elementNameSet": true,
-            "elementName": "Volumetric Light",
-            "playerVariableNameSet": true,
-            "playerVariableName": "",
-            "pickableType": 0,
-            "updateCloneTypeApplied": true,
-            "updateCloneType": 0,
-            "transparencyOrderOffset": 0,
-            "showSparklesInVR": true,
-            "vrSparklesMode": 0,
-            "rigidbody": [],
             "_switch": [],
             "turnable": [],
             "dial": [],

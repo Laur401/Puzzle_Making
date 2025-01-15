@@ -20,9 +20,9 @@
         "z": 0.0
     },
     "cameraEditPosition": {
-        "x": 5.542056560516357,
-        "y": 1.4140878915786744,
-        "z": -0.4007354974746704
+        "x": 5.542057037353516,
+        "y": 1.4140880107879639,
+        "z": -0.400735467672348
     },
     "cameraEditRotation": {
         "x": 358.6543273925781,
@@ -21276,7 +21276,7 @@
             "swapTextures": [],
             "paintTextures": [
                 {
-                    "fileName": "ktdjdhesiv.png",
+                    "fileName": "Temp/ktdjdhesiv.png",
                     "rendererPath": "SM_Camera_02a/SM_Camera_02a_LOD0"
                 }
             ],
